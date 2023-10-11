@@ -1,6 +1,6 @@
 ﻿using BlockChainEventStreamProcessor.Models;
 
-namespace BlockchainEventStreamProcessor.Interfaces
+namespace BlockChainEventStreamProcessor.Interfaces
 {
     public interface ITransactionProcessor
     {

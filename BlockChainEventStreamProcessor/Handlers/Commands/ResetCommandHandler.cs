@@ -1,4 +1,4 @@
-﻿using BlockchainEventStreamProcessor.Interfaces;
+﻿using BlockChainEventStreamProcessor.Interfaces;
 
 namespace BlockChainEventStreamProcessor.Handlers.Commands
 {

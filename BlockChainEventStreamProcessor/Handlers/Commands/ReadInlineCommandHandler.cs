@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 using BlockchainEventStreamProcessor.Helpers;
-using BlockchainEventStreamProcessor.Interfaces;
+using BlockChainEventStreamProcessor.Interfaces;
 using BlockChainEventStreamProcessor.Models;
 
 namespace BlockChainEventStreamProcessor.Handlers.Commands

@@ -1,4 +1,4 @@
-﻿using BlockchainEventStreamProcessor.Interfaces;
+﻿using BlockChainEventStreamProcessor.Interfaces;
 using System.Text.Json;
 
 namespace BlockChainEventStreamProcessor.Storage

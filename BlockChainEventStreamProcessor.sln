@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainEventStreamProcessor", "BlockChainEventStreamProcessor\BlockChainEventStreamProcessor.csproj", "{CE72EDD9-5FEF-44D4-9872-E86722BB2C8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainEventStreamProcessor.UnitTests", "BlockChainEventStreamProcessor.UnitTests\BlockChainEventStreamProcessor.UnitTests.csproj", "{C3A93A1C-2B37-4371-A4E2-E966E2CE0B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE72EDD9-5FEF-44D4-9872-E86722BB2C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE72EDD9-5FEF-44D4-9872-E86722BB2C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE72EDD9-5FEF-44D4-9872-E86722BB2C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A93A1C-2B37-4371-A4E2-E966E2CE0B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A93A1C-2B37-4371-A4E2-E966E2CE0B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A93A1C-2B37-4371-A4E2-E966E2CE0B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A93A1C-2B37-4371-A4E2-E966E2CE0B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

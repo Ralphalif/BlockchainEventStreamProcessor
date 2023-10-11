@@ -1,4 +1,4 @@
-﻿namespace BlockchainEventStreamProcessor.Interfaces
+﻿namespace BlockChainEventStreamProcessor.Interfaces
 {
     public interface IQueryHandler<TQuery>
     {

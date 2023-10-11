@@ -1,5 +1,5 @@
 ﻿using BlockChainEventStreamProcessor.Handlers.Commands;
-using BlockchainEventStreamProcessor.Interfaces;
+using BlockChainEventStreamProcessor.Interfaces;
 using BlockChainEventStreamProcessor.Processors;
 using BlockChainEventStreamProcessor.Routers;
 using BlockChainEventStreamProcessor.Storage;

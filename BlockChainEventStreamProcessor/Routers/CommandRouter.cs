@@ -1,5 +1,5 @@
 ﻿using BlockChainEventStreamProcessor.Handlers.Commands;
-using BlockchainEventStreamProcessor.Interfaces;
+using BlockChainEventStreamProcessor.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BlockChainEventStreamProcessor.Routers

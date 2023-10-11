@@ -1,4 +1,4 @@
-﻿using BlockchainEventStreamProcessor.Interfaces;
+﻿using BlockChainEventStreamProcessor.Interfaces;
 using BlockChainEventStreamProcessor.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
